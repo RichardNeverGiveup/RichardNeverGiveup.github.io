@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Ruilin Cheng
+Ruilin Cheng
+Engineer & Developer
 
 Show Contacts
 
 Email
-richard@example.com
+r48cheng@uwaterloo.ca
 
 Phone
-+1 (213) 352-2795
++86 18070515504
 
 Birthday
-June 23, 1982
+August 22, 1992
 
 Location
-Sacramento, California, USA
+Waterloo, Ontario, CA
 
 # navbar
 
@@ -93,31 +93,28 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+University of Waterloo, Ontario CA
+2021 — 2023
+Master of Engineering in Electrical and Computer Engineering
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+Wuhan University of Technology, Wuhan CHN
+2016 — 2019
+Master of Science in Materials Science and Engineering
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+East China University of Technology, Nanchang CHN
+2010 — 2014
+Bachelor of Engineering in Materials Science and Engineering
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Device Engineer, YMTC (Yangtze Memory Technologies Co., Ltd.)
+2019 — 2021
+YMTC 64L Xtacking CMOS: R&D WAT analysis of LV CMOS devices, Device modeling automation pipeline.
+YMTC 128L Xtacking CMOS: R&D WAT analysis of LLV and LV CMOS devices, Safe Operation Area simulation deck for device modeling.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Reliablity Engineer, Black Cat Carbon Black CO., Ltd.
+2014 — 2016
+Reliablity data analysis of silica product.
 
 My skills
 
